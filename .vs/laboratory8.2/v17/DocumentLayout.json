@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laboratory works\\laboratory8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C92E86-277E-4C4E-9392-94661F958A9B}|laboratory8.2\\laboratory8.2.vcxproj|C:\\laboratory works\\laboratory8.2\\laboratory8.2\\laboratory8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C92E86-277E-4C4E-9392-94661F958A9B}|laboratory8.2\\laboratory8.2.vcxproj|solutionrelative:laboratory8.2\\laboratory8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71E4635-CD5C-4826-BFA6-F22E85516664}|UnitTest8.2\\UnitTest8.2.vcxproj|C:\\laboratory works\\laboratory8.2\\UnitTest8.2\\UnitTest8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F71E4635-CD5C-4826-BFA6-F22E85516664}|UnitTest8.2\\UnitTest8.2.vcxproj|solutionrelative:UnitTest8.2\\UnitTest8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest8.2.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory8.2\\UnitTest8.2\\UnitTest8.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest8.2\\UnitTest8.2.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory8.2\\UnitTest8.2\\UnitTest8.2.cpp",
+              "RelativeToolTip": "UnitTest8.2\\UnitTest8.2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T22:22:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratory8.2.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory8.2\\laboratory8.2\\laboratory8.2.cpp",
+              "RelativeDocumentMoniker": "laboratory8.2\\laboratory8.2.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory8.2\\laboratory8.2\\laboratory8.2.cpp",
+              "RelativeToolTip": "laboratory8.2\\laboratory8.2.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T17:12:14.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
